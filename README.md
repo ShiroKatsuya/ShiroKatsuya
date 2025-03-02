@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Smarthealth Web](https://github.com/anti009x/smarthealth_client.git)
 
-- 💬 Ask me about **HTML,CSS,JS,Android,C++,C#,Java,Python,PHP**
+- 💬 Ask me about **PYTHON, PHP, C++, JAVASCRIPT, UNREAL ENGINE, TAILWIND CSS, BOOTSTRAP, LARAVEL, YII, DJANGO,NLP **
 
 - 📫 How to reach me **riskisuleman76@gmail.com**
 
