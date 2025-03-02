@@ -4,13 +4,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anti009x&label=Profile%20views&color=0e75b6&style=flat" alt="anti009x" /> </p>
 
-- 🔭 I’m currently working on [Smarthealth Mobile](https://github.com/anti009x/SH.git)
+- 🌱 I’m currently learning **Large Language Model (LLM), Reinforcement learning (RL), Agent Autonomous**
 
-- 🌱 I’m currently learning **Laravel, Vue.JS, React Native**
+- 🔭 I’m currently working on [Calista Industry](https://github.com/ShiroKatsuya/Agent_Calista)
 
-- 👯 I’m looking to collaborate on [Smarthealth API](https://github.com/anti009x/smarthealth_api-main.git)
+- 🔭 I’m currently working on [Calista Industry](https://github.com/ShiroKatsuya/assistant-modela)
 
-- 🔭 I’m currently working on [Smarthealth Web](https://github.com/anti009x/smarthealth_client.git)
+- 🔭 I’m currently working on [Calista Industry](https://huggingface.co/CALISTA-INDUSTRY)
+
+- 👯 I’m looking to collaborate on [Smarthealth Mobile](https://github.com/ShiroKatsuya/SH.git)
+
+- 👯 I’m looking to collaborate on [Smarthealth](https://github.com/anti009x/smarthealth_api-main.git)
+
+- 👯 I’m looking to collaborate on [Smarthealth](https://github.com/anti009x/smarthealth_client.git)
+
+- 👯 I’m looking to collaborate on [PT Dwi Dharma Djaya Expedition](https://github.com/ShiroKatsuya/AnterIn-WEB)
+
+- 👯 I’m looking to collaborate on [PT Dwi Dharma Djaya Expedition](https://github.com/ShiroKatsuya/AnterIn_Mobile)
+
+
 
 - 💬 Ask me about **PYTHON, PHP, C++, JAVASCRIPT, UNREAL ENGINE, TAILWIND CSS, BOOTSTRAP, LARAVEL, YII, DJANGO,NLP **
 
