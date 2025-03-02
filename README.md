@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Calista Website](https://github.com/ShiroKatsuya/Agent_Calista)
 
-- 🔭 I’m currently working on [Calista](https://github.com/ShiroKatsuya/assistant-modela)
+- 🔭 I’m currently working on [Calista Model](https://github.com/ShiroKatsuya/assistant-modela)
 
 - 🔭 I’m currently working on [Calista Industry](https://huggingface.co/CALISTA-INDUSTRY)
 
