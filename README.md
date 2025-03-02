@@ -1,5 +1,13 @@
 <img align="center" alt="code" width="100%" src="https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif" >
-<h1 align="center">Shiro Katsuya</h1>
+<span align="center">As a recent graduate with a Bachelor's degree in Software Engineering, I have more than 4 years of programming experience and have served an internship as a Junior Software Engineer at PT Cybers Blitz Nusantara. With good analytical skills, problem-solving expertise, and high work commitment, I am ready to make maximum contributions to support the company's progress.
+
+EXPERIENCE
+Web Aplication | Full Stack Software Engineer PT Cybers Blitz Nusantara
+•Collaborated in a team of three to design and develop a web application that supports revenue valuation calculations at PT Cybers Blitz Nusantara.
+•Implemented efficient computing solutions to manage large volumes of data, using Python, Django, jQuery, Bootstrap, and PostgreSQL in the development of the Smart Link System.1
+•Received appreciation for successfully creating a software system that improves ease of access, data processing efficiency, and deployment readiness.
+
+</span>
 <!-- <h3 align="center">A Web Developer and Mobile Developer</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anti009x&label=Profile%20views&color=0e75b6&style=flat" alt="anti009x" /> </p>
