@@ -1,6 +1,6 @@
 <img align="center" alt="code" width="100%" src="https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif" >
 <h1 align="center">Shiro Katsuya</h1>
-<h3 align="center">A Web Developer and Mobile Developer</h3>
+<!-- <h3 align="center">A Web Developer and Mobile Developer</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anti009x&label=Profile%20views&color=0e75b6&style=flat" alt="anti009x" /> </p>
 
