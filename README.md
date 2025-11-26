@@ -57,7 +57,7 @@
 ### 📊 Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anti009x&show_icons=true&locale=en&theme=radical" alt="anti009x stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShiroKatsuya&show_icons=true&locale=en&theme=radical" alt="ShiroKatsuya stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anti009x&show_icons=true&locale=en&layout=compact&theme=radical" alt="anti009x languages" height="180"/>
 </div>
 <div align="center">
