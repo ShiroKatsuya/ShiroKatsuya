@@ -28,25 +28,8 @@
 
 - 🌱 I’m currently learning **Large Language Model (LLM), Reinforcement learning (RL), Agent Autonomous**
 
-- 🔭 I’m currently working on [Calista Website](https://github.com/ShiroKatsuya/Agent_Calista)
 
-- 🔭 I’m currently working on [Calista Model](https://github.com/ShiroKatsuya/assistant-modela)
-
-- 🔭 I’m currently working on [Calista Industry](https://huggingface.co/CALISTA-INDUSTRY)
-
-- 👯 I’m looking to collaborate on [Smarthealth Mobile](https://github.com/ShiroKatsuya/SH.git)
-
-- 👯 I’m looking to collaborate on [Smarthealth Backend](https://github.com/anti009x/smarthealth_api-main.git)
-
-- 👯 I’m looking to collaborate on [Smarthealth Website](https://github.com/anti009x/smarthealth_client.git)
-
-- 👯 I’m looking to collaborate on [PT Dwi Dharma Djaya Expedition Backend](https://github.com/ShiroKatsuya/AnterIn-WEB)
-
-- 👯 I’m looking to collaborate on [PT Dwi Dharma Djaya Expedition Mobile](https://github.com/ShiroKatsuya/AnterIn_Mobile)
-
-
-
-- 💬 Ask me about **PYTHON, PHP, C++, JAVASCRIPT, UNREAL ENGINE, TAILWIND CSS, BOOTSTRAP, LARAVEL, YII, DJANGO,NLP **
+- 💬 Ask me about **PYTHON, PHP, C++, JAVASCRIPT, UNREAL ENGINE, TAILWIND CSS, BOOTSTRAP, LARAVEL, YII, DJANGO, NLP **
 
 - 📫 How to reach me **riskisuleman76@gmail.com**
 
