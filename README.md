@@ -10,10 +10,17 @@
 <br>
 <div>
 <ul>
-  <li>Collaborated in a team of three to design and develop a web application that supports revenue valuation calculations at PT Cybers Blitz Nusantara.</li>
-  <li>Implemented efficient computing solutions to manage large volumes of data, using Python, Django, jQuery, Bootstrap, and PostgreSQL in the development of the Smart Link System.1</li>
-  <li>Received appreciation for successfully creating a software system that improves ease of access, data processing efficiency, and deployment readiness.</li>
+  <li><strong>EXPERIENCE</strong></li>
+  <li><strong>July 2024 – December 2024</strong></li>
+  <li><strong>Cybers Blitz Nusantara</strong></li>
+  <li><strong>Full Stack Software Engineer</strong></li>
+  <ul>
+    <li>Developed an internal system to automate the company’s revenue assessment process, improving operational efficiency and data accuracy.</li>
+    <li>Managed and processed large volumes of company data to generate actionable insights, supporting more reliable and timely financial calculations.</li>
+    <li>Delivered a system component from concept to implementation-ready stage, showcasing strong problem-solving abilities and user-focused development.</li>
+  </ul>
 </ul>
+
 </div>
 <!-- <h3 align="center">A Web Developer and Mobile Developer</h3> -->
 
