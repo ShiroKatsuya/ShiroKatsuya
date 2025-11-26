@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on **Web Applications & Internal Systems**
 - 🌱 I’m currently learning **Large Language Models (LLM), Reinforcement Learning (RL), Autonomous Agents**
-- 💬 Ask me about **Python, PHP, C++, JavaScript,**
+- 💬 Ask me about **Python, PHP, C++, JavaScript & Java**
 - 📫 Reach me at **riskisuleman76@gmail.com**
 - ⚡ Fun fact: **I believe in the power of code (and coffee)!**
 
