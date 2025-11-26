@@ -56,10 +56,7 @@
 
 ### 📊 Github Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShiroKatsuya&show_icons=true&locale=en&theme=radical" alt="ShiroKatsuya stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShiroKatsuya&show_icons=true&locale=en&layout=compact&theme=radical" alt="ShiroKatsuya languages" height="180"/>
-</div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShiroKatsuya&theme=radical" alt="ShiroKatsuya streak" />
 </div>
