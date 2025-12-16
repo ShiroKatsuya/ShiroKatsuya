@@ -62,7 +62,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anti009x&theme=radical" alt="ShiroKatsuya streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShiroKatsuya&theme=radical" alt="ShiroKatsuya streak" />
 </div>
 
 <br>
