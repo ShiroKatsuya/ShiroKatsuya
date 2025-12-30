@@ -67,5 +67,5 @@
 
 <br>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anti009x&label=Profile%20views&color=0e75b6&style=flat" alt=""ShiroKatsuya" />
+  <img src="https://komarev.com/ghpvc/?username=anti009x&label=Profile%20views&color=0e75b6&style=flat" alt="ShiroKatsuya" />
 </div>
