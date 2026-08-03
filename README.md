@@ -57,7 +57,7 @@
 * **Designed, developed, and maintained full-stack web applications for various clients.**.
 * **Developed a cooperative management system for Koperasi Ulil Albab.**.
 * **Participated in the development of a digital banking application for CV Serat Jiwa.**.
-* **Built and maintained a school management application for Yayasan Cendikia.**.
+* **Built and maintained a school management application for Yayasan Cendikia & Aderose Glowing Salon.**.
 * **Assisted in promoting the company through marketing materials, including promotional posters and digital content.**.
 * **Designed and developed the company's official website.**.
 ---
