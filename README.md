@@ -35,11 +35,31 @@
 
 #### **Full Stack Software Engineer** | *PT Cybers Blitz Nusantara*
 *July 2024 – December 2024*
-> Developed internal systems to automate revenue assessment and improve data accuracy.
-* **Automation:** Developed a system to automate the company’s revenue assessment process, boosting efficiency.
-* **Data Analysis:** Managed large volumes of data to generate actionable financial insights.
-* **End-to-End:** Delivered system components from concept to implementation-ready stage.
+> Role: Full Stack Software Engineer.
+* **Developed a key internal system to automate the company's revenue assessment process, significantly improving operational efficiency and data accuracy**.
+* **Managed and processed large volumes of company data to deliver actionable insights, contributing to more reliable and timely financial calculations**.
+* **Successfully delivered a project component from conception to an implementation ready state, demonstrating strong problemsolving skills and an ability to create user-centric solutions**.
 
+#### **Associate Ai Engineer** | *Bithealth*
+*February  2026 – April 2026*
+> Role: Associate Ai Engineer.
+* **Built a multi-agent AI system using Google Gemini with 7 parallel agents for hierarchical code prediction.**.
+* **Developed an end-to-end AI-powered medical coding solution to automate ICD-9 and ICD-10 classification from hospital billing data across multi-branch healthcare environments.**.
+* **Processed and optimized large-scale healthcare datasets (tens of millions of records), improving system performance and scalability in production-level pipelines.**.
+* **Conducted statistical validation and performance analysis by benchmarking AI predictions against manual coding using methods such as Cramer’s V and variance analysis.**.
+
+#### **Full Stack Software Engineer** | *Ray Solution Invofatif*
+*April 2026 – Present*
+> Role: Full Stack Software Engineer
+* **Contributed to the company's technical direction as a member of the founding development team.**.
+* **Worked closely with the team to define the company's technology strategy and software roadmap.**.
+* **Served in a dual role as a Software Engineer and Technology Consultant.**.
+* **Designed, developed, and maintained full-stack web applications for various clients.**.
+* **Developed a cooperative management system for Koperasi Ulil Albab.**.
+* **Participated in the development of a digital banking application for CV Serat Jiwa.**.
+* **Built and maintained a school management application for Yayasan Cendikia.**.
+* **Assisted in promoting the company through marketing materials, including promotional posters and digital content.**.
+* **Designed and developed the company's official website.**.
 ---
 
 ### 💻 Tech Stack
